@@ -1,5 +1,5 @@
-## NURTURE 
-The easiest way to help tutors engage with students and guide their progress.
+# 👨‍👧‍👦NURTURE 
+<i> The easiest way to help tutors engage with students and guide their progress. </i>
 
 ## BACKGROUND
 Nurture was an idea that sprung from my days as an English tutor, where I would often set homework for my students and ask them to deliver it in a format other than an essay, for e.g: in a live presentation format or recording themselves on video visually explaining the homework. I wanted to create a platform which helped to bring students together in a peer-to-peer learning effort (to gain inspiration from each other), while getting them to exercise their creativity skills in an approach similar to social media (e.g: Instagram). 
